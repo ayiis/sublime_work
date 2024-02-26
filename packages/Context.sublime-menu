@@ -1,0 +1,31 @@
+[
+    {
+        "id": "aycommand",
+        "caption": "aycommand(Super+J)",
+        "children": [{
+            "id": "format_json",
+            "caption": "format_json(+1)",
+            "command": "format_json",
+        }, {
+            "id": "align_multi_lines",
+            "caption": "align_multi_lines(+2)",
+            "command": "align_multi_lines",
+        }, {
+            "id": "line_with_quote",
+            "caption": "line_with_quote(+3)",
+            "command": "line_with_quote",
+        }, {
+            "id": "format_odps",
+            "caption": "format_odps(+4)",
+            "command": "format_odps",
+        }, {
+            "id": "super_decode",
+            "caption": "super_decode(+5)",
+            "command": "super_decode",
+        }, {
+            "id": "w3j_inject",
+            "caption": "w3j_inject(+9)",
+            "command": "w3j_inject",
+        }]
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {"keys": ["super+j", "super+1"], "command": "format_json"},
+    {"keys": ["super+j", "super+2"], "command": "align_multi_lines"},
+    {"keys": ["super+j", "super+3"], "command": "line_with_quote"},
+    {"keys": ["super+j", "super+4"], "command": "format_odps"},
+    {"keys": ["super+j", "super+5"], "command": "super_decode"},
+    {"keys": ["super+j", "super+9"], "command": "w3j_inject"},
+]
