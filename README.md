@@ -117,7 +117,7 @@ Jade (已不维护)
 
 文件名: `Default (Windows).sublime-keymap`
 
-不同操作系统下的名字不一样，例如当前Win10下是 `Windows`, MacOS下是 `Mac`
+不同操作系统下的名字不一样，例如当前Win10下是 `Windows`, MacOS下是 `OSX`
 
 ```js
 [
@@ -154,4 +154,4 @@ class line_with_quoteCommand(sublime_plugin.TextCommand):
 
 在 Sublime 的命令行执行 `view.run_command("line_with_quote")` 即可执行注册的命令
 
-配置快捷键后，通过快捷键即可直接调用该命令
+为命令配置快捷键后，通过快捷键即可直接调用该命令
