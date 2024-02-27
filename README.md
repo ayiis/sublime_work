@@ -73,6 +73,20 @@ Jade (已不维护)
 }
 ```
 
+### flake8 配置（Preference: SublimeLinter Settings）
+
+文件名: `SublimeLinter.sublime-settings`
+
+```js
+{
+    "linters": {
+        "flake8": {
+            "args": ["--extend-ignore", "E501"],
+        },
+    },
+}
+```
+
 ## 插件
 
 ### 右键菜单
