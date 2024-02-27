@@ -68,6 +68,7 @@ Jade (已不维护)
     "settings": {
         "python.analysis.diagnosticSeverityOverrides": {
             "reportMissingImports": false,
+            "reportMissingModuleSource": false,
         },
     },
 }
